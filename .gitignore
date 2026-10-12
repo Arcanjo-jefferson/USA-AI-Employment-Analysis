@@ -1,0 +1,17 @@
+# Ignore datasets
+data/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
+
+# Anaconda / Python environments
+.env
+.venv/
+venv/
